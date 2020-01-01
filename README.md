@@ -1,6 +1,6 @@
 # BNNR
 BNNR is a novel computational method, which utilizes Bounded Nuclear Norm Regularization algorithm to identify potential novel indications for known or new drugs. The code in this package implements Bounded Nuclear Norm Regularization (BNNR) for drug repositioning, which is implemented in Matlab2014a.
-BNNR appeared in Proceedings of the 27th Conference on Intelligent Systems for Molecular Biology and the 19th European Conference on Computational Biology (ISMB/ECCB 2019), Basel, Switzerland, July 21-25, 2019.
+BNNR appears in Proceedings of the 27th Conference on Intelligent Systems for Molecular Biology and the 19th European Conference on Computational Biology (ISMB/ECCB 2019), Basel, Switzerland, July 21-25, 2019.
 
 Description: 
 "Demo.m" demonstrates the experimental result on Fdataset by BNNR.
