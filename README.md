@@ -8,7 +8,7 @@ Description:
 "svt.m" is the function of singular value thresholding operator.
 
 Contact:  
-If you have any questions or suggestions with the code, please let us know. Contact Mengyun Yang at mengyunyang@csu.edu.cn
+If you have any questions or suggestions with the code, please let us know. Contact Mengyun Yang at mengyun_yang@126.com
 
 # Citation  
 Yang M, Luo H, Li Y, Wang J. Drug repositioning based on bounded nuclear norm regularization[J]. Bioinformatics, 2019, 35(14): i455-i463.
