@@ -13,7 +13,7 @@ If you have any questions or suggestions with the code, please let us know. Cont
 # Citation  
 Yang M, Luo H, Li Y, Wang J. Drug repositioning based on bounded nuclear norm regularization[J]. Bioinformatics, 2019, 35(14): i455-i463.
 
-'''
+```
 @article{Yang2019Drug,
   title={Drug repositioning based on bounded nuclear norm regularization},
   author={Yang, Mengyun  and  Luo, Huimin  and  Li, Yaohang  and  Wang, Jianxin},
@@ -23,4 +23,4 @@ Yang M, Luo H, Li Y, Wang J. Drug repositioning based on bounded nuclear norm re
   year={2019},
   publisher={Oxford University Press}
 }
-'''
+```
